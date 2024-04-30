@@ -1,0 +1,50 @@
+{
+  "user": [
+    {
+      "id": "3b4b",
+      "name": "aryan193sharma@gmail.com",
+      "email": "aryan193sharma@gmail.com",
+      "pass": "dfdsasdfsdf"
+    },
+    {
+      "id": "2e15",
+      "name": "a",
+      "email": "aryan1923sharma@gmail.com",
+      "pass": "12345678"
+    },
+    {
+      "id": "c6bf",
+      "name": "aryan193sharma@gmail.com",
+      "email": "aryan193sharma@gmail.com",
+      "pass": "1234567"
+    },
+    {
+      "id": "922c",
+      "name": "Aryan",
+      "email": "aryan193sharma@gmail.com",
+      "pass": "12345678"
+    },
+    {
+      "id": "6381",
+      "name": "a",
+      "email": "aryan193s@gmail.com",
+      "pass": "weugfigfiw"
+    },
+    {
+      "id": "509d",
+      "name": "XYZ",
+      "email": "xyz@gmail.com",
+      "pass": "123456"
+    }
+  ],
+  "cards": [
+    {
+      "id": "e199",
+      "name": "XYZ",
+      "category": "Men",
+      "image": "https://image.shutterstock.com/image-photo/stack-colorful-clothes-pile-clothing-260nw-2203081765.jpg",
+      "new_price": "85",
+      "old_price": "120"
+    }
+  ]
+}
